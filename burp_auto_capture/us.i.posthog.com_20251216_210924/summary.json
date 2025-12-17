@@ -1,0 +1,327 @@
+{
+  "capture_timestamp": "20251216_210924", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_001.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929439548&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_001.txt", 
+      "timestamp": 1765929439708
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_002.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929444571&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_002.txt", 
+      "timestamp": 1765929444729
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_003.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929447938&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_003.txt", 
+      "timestamp": 1765929448094
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_004.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929453692&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_004.txt", 
+      "timestamp": 1765929453863
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_005.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929459595&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_005.txt", 
+      "timestamp": 1765929459751
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_006.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929464612&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_006.txt", 
+      "timestamp": 1765929464768
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_007.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929468519&ver=1.307.0&compression=gzip-js&beacon=1", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_007.txt", 
+      "timestamp": 1765929468722
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_008.txt", 
+      "url": "https://us.i.posthog.com:443/e/?ip=0&_=1765929475068&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_008.txt", 
+      "timestamp": 1765929475242
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_009.txt", 
+      "url": "https://us.i.posthog.com:443/flags/?v=2&config=true&ip=0&_=1765929475062&ver=1.307.0&compression=base64", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_009.txt", 
+      "timestamp": 1765929475247
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_010.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929483117&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_010.txt", 
+      "timestamp": 1765929483321
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_011.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929493085&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_011.txt", 
+      "timestamp": 1765929493241
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_012.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929498093&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_012.txt", 
+      "timestamp": 1765929498249
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_013.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929503108&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_013.txt", 
+      "timestamp": 1765929503269
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_014.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929513118&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_014.txt", 
+      "timestamp": 1765929513276
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_015.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929518128&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_015.txt", 
+      "timestamp": 1765929518284
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_016.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929523127&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_016.txt", 
+      "timestamp": 1765929523388
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_017.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929528141&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_017.txt", 
+      "timestamp": 1765929528298
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_018.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929538152&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_018.txt", 
+      "timestamp": 1765929538310
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_019.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929543162&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_019.txt", 
+      "timestamp": 1765929543321
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_020.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929548172&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_020.txt", 
+      "timestamp": 1765929548337
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_021.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929553168&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_021.txt", 
+      "timestamp": 1765929553324
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_022.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929563172&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_022.txt", 
+      "timestamp": 1765929563333
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_023.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929567167&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_023.txt", 
+      "timestamp": 1765929567357
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_024.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929573186&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_024.txt", 
+      "timestamp": 1765929573346
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_025.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929578202&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_025.txt", 
+      "timestamp": 1765929578366
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_026.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929608247&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_026.txt", 
+      "timestamp": 1765929608721
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_027.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929619233&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_027.txt", 
+      "timestamp": 1765929619394
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_028.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929623093&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_028.txt", 
+      "timestamp": 1765929623259
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_029.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929628280&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_029.txt", 
+      "timestamp": 1765929628447
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_030.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929633297&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_030.txt", 
+      "timestamp": 1765929633473
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_031.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929638305&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_031.txt", 
+      "timestamp": 1765929638466
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_032.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929679727&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_032.txt", 
+      "timestamp": 1765929680220
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_033.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929685493&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_033.txt", 
+      "timestamp": 1765929685658
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_034.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?ip=0&_=1765929693380&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_034.txt", 
+      "timestamp": 1765929857323
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_035.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=2&ip=0&_=1765929825427&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_035.txt", 
+      "timestamp": 1765929858414
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_036.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=2&ip=0&_=1765929817540&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_036.txt", 
+      "timestamp": 1765929858422
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_037.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=1&ip=0&_=1765929759404&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_037.txt", 
+      "timestamp": 1765929858422
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_038.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=1&ip=0&_=1765929748506&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_038.txt", 
+      "timestamp": 1765929858425
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_039.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=3&ip=0&_=1765929892590&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_039.txt", 
+      "timestamp": 1765929893126
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/request_040.txt", 
+      "url": "https://us.i.posthog.com:443/i/v0/e/?retry_count=3&ip=0&_=1765929898622&ver=1.307.0&compression=gzip-js", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/us.i.posthog.com_20251216_210924/response_040.txt", 
+      "timestamp": 1765929898792
+    }
+  ], 
+  "host": "us.i.posthog.com", 
+  "total_requests": 40
+}
