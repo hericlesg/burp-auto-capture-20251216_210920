@@ -1,0 +1,63 @@
+{
+  "capture_timestamp": "20251216_211039", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_001.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetCountryCode?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_001.txt", 
+      "timestamp": 1765929439938
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_002.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetCountryCode?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_002.txt", 
+      "timestamp": 1765929453881
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_003.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetCountryCode?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_003.txt", 
+      "timestamp": 1765929479333
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_004.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetDefaultSystemParams?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_004.txt", 
+      "timestamp": 1765929482187
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_005.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/SignIn", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_005.txt", 
+      "timestamp": 1765929482653
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_006.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetSystemParams?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_006.txt", 
+      "timestamp": 1765929486439
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/request_007.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetDefaultSystemParams?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251216_211039/response_007.txt", 
+      "timestamp": 1765929616485
+    }
+  ], 
+  "host": "sb2auth-altenar2.biahosted.com", 
+  "total_requests": 7
+}
