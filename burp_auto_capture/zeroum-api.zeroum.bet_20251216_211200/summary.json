@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20251216_211200", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/request_001.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/response_001.txt", 
+      "timestamp": 1765929858711
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/request_002.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub?languageId=pt&id=mDqXESAfUqfuIB5yBlF6dA", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/response_002.txt", 
+      "timestamp": 1765929888381
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/request_003.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/response_003.txt", 
+      "timestamp": 1765929893617
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/request_004.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub?languageId=pt&id=dugmI-GSnxLe5OmYJEez6g", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/response_004.txt", 
+      "timestamp": 1765929913219
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/request_005.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub?languageId=pt&id=dugmI-GSnxLe5OmYJEez6g", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251216_211200/response_005.txt", 
+      "timestamp": 1765929918733
+    }
+  ], 
+  "host": "zeroum-api.zeroum.bet", 
+  "total_requests": 5
+}
